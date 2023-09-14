@@ -283,7 +283,9 @@ header{
 
 @media(max-width:662px){
    
-    
+    header{
+        height: 100%;
+    }
     .nav-menu{
         display: flex;
         flex-direction: column;
